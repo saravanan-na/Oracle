@@ -8,7 +8,7 @@
         <connection>https://github.com/saravanan-na/Oracle.git</connection>
         <developerConnection>scm:git:https://github.com/saravanan-na/Oracle.git</developerConnection>
         <url>scm:git:https://github.com/saravanan-na/Oracle.git</url>
-      <tag>Branch23</tag>
+      <tag>Branch20</tag>
   </scm>
   <name>GitTest</name>
   <packaging>war</packaging>
